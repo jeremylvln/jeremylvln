@@ -1,6 +1,10 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Jérémy</h1>
+<h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jérémy</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IamBlueSlime)](https://github.com/ryo-ma/github-profile-trophy)
+I'm a French Software Engineer based in Paris, France. Passionate about Infrastructure Engineering.
+
+Drop me a chat sometime!
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=IamBlueSlime&margin-w=10&margin-h=10&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--
 **IamBlueSlime/IamBlueSlime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
